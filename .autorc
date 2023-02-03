@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "meetkool",
+  "repo": "container-z14n0yg",
+  "name": "meetkool",
+}
